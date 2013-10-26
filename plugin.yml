@@ -1,0 +1,11 @@
+name: DarkRoles
+author: Celeo
+version: 0.1.2.5
+description: 
+website: http://darktidegames.com
+main: com.darktidegames.celeo.DarkRoles
+depend: [bPermissions, Essentials]
+commands:
+  role:
+    usage: /<command> [normal|staff]
+    description: Toggles the player in and out of staff power
